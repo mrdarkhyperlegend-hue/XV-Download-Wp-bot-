@@ -4,7 +4,7 @@ const path = require('path');
 module.exports = {
     command: 'menu', 
     execute: async (conn, from, msg) => {
-        const mediaPath = path.join(__dirname, '../media', 'bot.mp4');
+        const mediaPath = path.join(__dirname, '../media', 'dance.mp4');
         
         
         const pushname = msg.pushName || 'User';
