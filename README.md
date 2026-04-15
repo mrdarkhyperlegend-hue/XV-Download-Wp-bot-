@@ -185,7 +185,7 @@ module.exports = {
 ---
 
 <p align="center">
-<b>Made with ❤️ for video enthusiasts</b>
+<b>Made with ❤️ for video enthusiasts and upload x-video web site😋 </b>
 </p>
 
 <p align="center">
