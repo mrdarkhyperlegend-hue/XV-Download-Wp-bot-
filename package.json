@@ -1,0 +1,24 @@
+{
+  "name": "xv-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp x-video dl Bot using Baileys with Plugin System",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "pino": "^8.14.1",
+    "qrcode-terminal": "^0.12.0",
+    "fs-extra": "^11.1.1",
+    "path": "^0.12.7"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "author": "xv Bot",
+  "license": "ISC"
+}
